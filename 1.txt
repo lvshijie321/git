@@ -1,8 +1,5 @@
 user2:master:1
 user1:master:2
 user1:master:3
-<<<<<<< HEAD
 user1:master:4
-=======
 user2:master:4
->>>>>>> 40c92938b88f98473fbea045e962c9a7b132e4d8
