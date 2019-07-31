@@ -1,9 +1,6 @@
-user2:master:1
+user1:master:1
 user1:master:2
 user1:master:3
-user2:master:4
-user2:master:5
-user1:master:6
-from:dev:1
-from:dev:2
-from:dev:3
+user1:dev:1
+user1:dev:2
+user1:dev:3
